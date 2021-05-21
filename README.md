@@ -1,2 +1,0 @@
-# PJProjects
- For projects
