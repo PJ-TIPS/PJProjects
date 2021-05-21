@@ -1,3 +1,3 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+theme: jekyll-theme-architect
+title: Welcome to PJ's About page
+description: about me
